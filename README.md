@@ -1,7 +1,7 @@
 # introduction
 FullStack Web Developer
 
-슬리드 2020 ~ 현재
+- 슬리드 (2020 ~ 현재)
 
 ## 🛠️ Tools
 
