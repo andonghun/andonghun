@@ -1,6 +1,6 @@
 # introduction
 
-- 슬리드(Slid) FullStack Web Developer (2020 ~ 현재)
+- 비브리지 FullStack Web Developer (2020 ~ 현재)
 
 ## 🛠️ Stacks
 
