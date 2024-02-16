@@ -1,6 +1,7 @@
 # introduction
 
 - 비브리지 FullStack Web Developer (2020 ~ 현재)
+- (주)펜타시큐리티시스템 (2018 ~ 2019)
 
 ## 🛠️ Stacks
 
